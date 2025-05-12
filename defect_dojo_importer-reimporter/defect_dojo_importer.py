@@ -1,3 +1,12 @@
+# SPDX-License-Identifier: MIT
+# Copyright (c) 2025 Nikolaos Ntouroutlis
+
+__script__ = "defect_dojo_importer.py"
+__author__ = "Nikolaos Ntouroutlis"
+__license__ = "MIT"
+__version__ = "1.2.0"
+__status__ = "Production"
+
 import configparser
 import requests
 import json
